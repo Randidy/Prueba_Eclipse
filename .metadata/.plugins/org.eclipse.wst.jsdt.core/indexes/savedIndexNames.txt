@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Andrea PC\Desktop\dra\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4112937699.index
+4083500722.index
+2342465793.index
+2831352887.index
+144700267.index
+3369246905.index
